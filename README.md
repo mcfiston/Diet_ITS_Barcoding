@@ -13,7 +13,9 @@ Please note - this is NOT a finished program, but just a set of scripts used for
 ## Scipts
 
 ### Run_all.sh
-Runs all the appropriate scripts and intermediate formatting steps.
+Runs all the appropriate scripts and intermediate formatting steps. You should be able to run all steps by navigating to the containing directory and typing:
+./Run_all.sh
+Just enter the 
 
 ### 01_ReadNumberOTU.py
 
