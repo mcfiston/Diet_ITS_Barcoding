@@ -1,6 +1,8 @@
 # Diet_ITS_Barcoding
 Pipeline for processing ITS barcoding data from "Moorhouse-Gann et al. Impacts of Ecological Replacement on an Island Ecosystem"
 
+Please note - this is NOT a finished program, but just a set of scripts used for processing one particular dataset. We have not tested how generalisable they are to other datasets so use at your own risk. 
+
 ## Run_all.sh
 Runs all the appropriate scripts and intermediate formatting steps.
 
